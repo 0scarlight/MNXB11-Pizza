@@ -1,4 +1,4 @@
-# task to add to main branch workplan
+# Pizza preparation steps:
 
 - [ ] Make the dough
 
