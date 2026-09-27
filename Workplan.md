@@ -2,6 +2,8 @@
 
 - [ ] Make the dough
 
+- [x] **Prepare the toppings** — Responsible: Jie  
+  See: [Toppings preparation instructions](jie_toppings.md)
 
 ## Oscar to do - Write the final assembly instructions: 
 - [ ] Write the annoying and unnecessary preamble to the actual recipe 
