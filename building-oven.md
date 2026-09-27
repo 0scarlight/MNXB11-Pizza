@@ -3,21 +3,21 @@
 
 ### Materials reuqired
 * Red bricks
-* clay stock bricks
-* face bricks (full length and  half length)
-* concrete slabs
-* shutter board
-* ready mix concrete 
-* ready builders mix
-* precast concrete lintels
-* perlite mix
-* hardboard 
-* mortar
-* plaster mix
-* dry plaster sand
-* floor tiles
-* perlite plaster
-* kindling wood
+* Clay stock bricks
+* Face bricks (full length and  half length)
+* Concrete slabs
+* Shutter board
+* Ready mix concrete 
+* Ready builders mix
+* Precast concrete lintels
+* Perlite mix
+* Hardboard 
+* Mortar
+* Plaster mix
+* Dry plaster sand
+* Floor tiles
+* Perlite plaster
+* Kindling wood
 
 ### Step 1: Preparing the Base
 Find a flat area for the base which should be 1.5 x 1.5m. Lay down the foundation of **conrete slabs**, which should be above ground level. 
@@ -27,7 +27,7 @@ Then construct a box out of **shutter board** with dimensions of 1.42m x 1.37m a
 ### Step 2: Casting the Slab
 Mix bags of **ready mix concrete** and cast it directly onto the levelled surface inside the wooden box. 
 
-Leave the concrete for at least 24 hours to cure before continuing. The shutter box can be removed at 3 days.
+Leave the concrete for at least 24 hours to cure before continuing. The shutter box can be removed after 3 days.
 
 
 ### Step 3: Building the Walls
@@ -42,14 +42,14 @@ Build the outer layer up by 3 courses. Each course consists of four and a half b
 Use **perlite mix** to screed over the lintels. This will provide insulation and smooth the base of the oven floor.
 
 ### Step 5: Continuing the Oven Walls
-Use **face bricks** to build up the inner layer. This type of bricks can easily withstand the heat of the oven. 
+Use **face bricks** to build up the inner layer. These types of bricks can easily withstand the heat of the oven. 
 
 Lay the bricks vertically (known as a soldier course). Make the joints as small as possible to reduce the amount of cement exposed to the heat.
 
 Lay out the barrel vault bricks on a flat surface. This semi-circle shape will be the back of the arched ceiling. The height should not exceed 500 mm. Cut the bricks as necessary to build the arch.
 
 ### Step 6: Building the Barrel Vault
-Cut two matching peices of **hardboard** for making the framwork of building the arches. Screw same length peices of wood between the boards, around 150-200 mm apart. 
+Cut two matching peices of **hardboard** for making the framework of building the arches. Screw same length peices of wood between the boards, around 150-200 mm apart. 
 
 Lay the bricks on the first arch resting on top of the framemwork. Once happy, use **mortar** to 'glue' them together. 
 
