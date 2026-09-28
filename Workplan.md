@@ -9,4 +9,9 @@
 - [x] Write the annoying and unnecessary preamble to the actual recipe 
 - [x] Add an inaccurate time estimate for the recipe 
 - [x] Make bad unit conversions 
-- [x] Assume the reader has exotic equipment and give vague instructions for suitable alternative  
+- [x] Assume the reader has exotic equipment and give vague instructions for suitable alternative
+
+## Oven for cooking
+- [x] collect materials to build pizza oven \
+  See full instructions: [building-oven.md](building-oven.md)
+
